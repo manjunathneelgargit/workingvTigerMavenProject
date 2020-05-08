@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53040" started-at="2020-05-08T01:20:11Z" finished-at="2020-05-08T01:21:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53040" started-at="2020-05-08T01:20:11Z" finished-at="2020-05-08T01:21:04Z">
+      <class name="com.vTiger.CreateProductTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configBC" is-config="true" duration-ms="9360" started-at="2020-05-08T01:20:11Z" finished-at="2020-05-08T01:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configBM" is-config="true" duration-ms="4276" started-at="2020-05-08T01:20:21Z" finished-at="2020-05-08T01:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="createProductTest" duration-ms="15019" started-at="2020-05-08T01:20:26Z" data-provider="giveData" finished-at="2020-05-08T01:20:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monitor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AltvetPet Inc.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hardware]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pramod]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configAM" is-config="true" duration-ms="1213" started-at="2020-05-08T01:20:41Z" finished-at="2020-05-08T01:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configBM" is-config="true" duration-ms="1563" started-at="2020-05-08T01:20:42Z" finished-at="2020-05-08T01:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="createProductTest" duration-ms="8208" started-at="2020-05-08T01:20:43Z" data-provider="giveData" finished-at="2020-05-08T01:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Keyboard]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LexPon Inc.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Software]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aravind]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configAM" is-config="true" duration-ms="898" started-at="2020-05-08T01:20:52Z" finished-at="2020-05-08T01:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configBM" is-config="true" duration-ms="1625" started-at="2020-05-08T01:20:52Z" finished-at="2020-05-08T01:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="createProductTest" duration-ms="8505" started-at="2020-05-08T01:20:54Z" data-provider="giveData" finished-at="2020-05-08T01:21:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mouse]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MetBeat Corp]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CRM Applications]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Manjula]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configAM" is-config="true" duration-ms="992" started-at="2020-05-08T01:21:03Z" finished-at="2020-05-08T01:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vTiger.CreateProductTest@7cd62f43]" name="configAC" is-config="true" duration-ms="782" started-at="2020-05-08T01:21:04Z" finished-at="2020-05-08T01:21:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.vTiger.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
