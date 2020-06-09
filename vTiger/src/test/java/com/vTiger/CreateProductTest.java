@@ -40,5 +40,6 @@ public class CreateProductTest extends Base
 		
 		System.out.println("Successfully Created --> PASS");
 		System.out.println(" Bye Bye");
+		System.out.println("Jenkeins POLL SCM");
 	}
 }
